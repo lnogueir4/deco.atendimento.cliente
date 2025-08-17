@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "atendimento-cliente": {
+      "type": "http",
+      "url": "https://localhost-df7e41dc.deco.host/mcp"
+    }
+  }
+}
