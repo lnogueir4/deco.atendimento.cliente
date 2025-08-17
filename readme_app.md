@@ -1,6 +1,6 @@
 # Projeto: Gestão de Oportunidades
 
-Este projeto define **tools** para criação e listagem de oportunidades de negócio, utilizando [**@deco/workers-runtime**](https://www.npmjs.com/package/@deco/workers-runtime) e **Zod** para validação.
+Este projeto define **tools** , usada por um agente, para criação e listagem de oportunidades de negócio, utilizando [**@deco/workers-runtime**](https://www.npmjs.com/package/@deco/workers-runtime) e **Zod** para validação.
 
 ## 🚀 Descrição
 
